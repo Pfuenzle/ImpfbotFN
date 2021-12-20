@@ -1,6 +1,6 @@
 # ImpfbotFN
 Checks for new available covid vaccination appointments at the Messe Friedrichshafen by parsing the [official website](https://bodenseekreis-impfzentrum.connect.giria.io/).
-Found appointments are then print to console and sent to a configured Pushbullet account, together with a link to sign up and a screenshot of the available dates.
+Found appointments are then printed to the console and sent to a configured Pushbullet account, together with a link to sign up and a screenshot of the available dates.
 
 ![Pushbullet example](https://i.ibb.co/r0RfwNy/vaccine.png)
 
