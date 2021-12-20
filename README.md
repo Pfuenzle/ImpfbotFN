@@ -26,4 +26,9 @@ Found appointments are then print to console and sent to a configured Pushbullet
   The third line is the number of months going forward (including the current one) that are checked by the bots.
   
   </br>
-  After this, the programm can be started by running the main configuration in the top right corner or by clicking the Run-Button appearing in line 27 while viewing main.java
+  After this, the programm can be started by running the main configuration in the top right corner or by clicking the Run-Button appearing in line 27 while viewing main.
+  
+  </br>
+  ## Used Libraries
+  [JPushbullet](https://github.com/salahsheikh/jpushbullet) to access the Pushbullet API
+  [Playwright](https://playwright.dev/) to access the appointment website and parse available appointments
