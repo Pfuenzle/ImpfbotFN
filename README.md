@@ -29,6 +29,9 @@ Found appointments are then printed to the console and sent to a configured Push
   After this, the programm can be started by running the main configuration in the top right corner or by clicking the Run-Button appearing in line 27 while viewing main.
   
   </br>
+  
   ## Used Libraries
+  
   [JPushbullet](https://github.com/salahsheikh/jpushbullet) to access the Pushbullet API
+  
   [Playwright](https://playwright.dev/) to access the appointment website and parse available appointments
